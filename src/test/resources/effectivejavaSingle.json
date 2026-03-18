@@ -1,0 +1,24 @@
+{
+    "id": "ka2VUBqHiWkC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ka2VUBqHiWkC",
+    "volumeInfo": {
+        "title": "Effective Java",
+        "authors": [
+            "Joshua Bloch"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2008-05-08",
+        "pageCount": 375,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "language": "en",
+        "previewLink": "http://books.google.co.uk/books?id=ka2VUBqHiWkC",
+        "infoLink": "https://play.google.com/store/books/details?id=ka2VUBqHiWkC"
+    },
+    "searchInfo": {
+        "textSnippet": "Each chapter in the book consists of several items presented in the form of a short, standalone essay."
+    }
+}
